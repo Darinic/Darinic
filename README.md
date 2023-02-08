@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Improving my CSS and Sass Knowledge.<br>🤝 I’m looking for help with with experience and how to move myself forward.<br>🌱 I’m currently learning Full-stack Development (JS/React/React-native/Node.js/DB's)<br>⚡ Fun fact: personality type INFJ. 
+🔭 I’m currently working on Improving my .NET and React knowledge.<br>🤝 I’m looking for help with with experience and how to move myself forward.<br>🌱 I’m currently learning Full-stack Development (JS/React/React-native/Node.js/DB's/.NET)<br>⚡ Fun fact: personality type INFJ. 
 
 
 ## 🌐 Socials:
